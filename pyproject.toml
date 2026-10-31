@@ -1,0 +1,8 @@
+[project]
+name = "i28-maritime-ais-data-quality"
+version = "1.0.0"
+description = "Dirty AIS data audit and exploratory maritime anomaly triage. No vessel misconduct inference."
+requires-python = ">=3.11"
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "project",
+    "rows",
+    "candidate",
+    "review",
+    "quarantine",
+    "raw_sha256",
+    "data_class"
+  ],
+  "properties": {
+    "project": {
+      "const": "I28"
+    },
+    "rows": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "candidate": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "review": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "quarantine": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "raw_sha256": {
+      "type": "string"
+    },
+    "data_class": {
+      "type": "string"
+    }
+  }
+}

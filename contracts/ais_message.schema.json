@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "I28 AIS normalized input, with missing receipt provenance",
+  "type": "object",
+  "properties": {
+    "row_id": {
+      "type": "string"
+    },
+    "MMSI": {
+      "type": "string"
+    },
+    "BaseDateTime": {
+      "type": "string"
+    },
+    "LAT": {
+      "type": "string"
+    },
+    "LON": {
+      "type": "string"
+    },
+    "SOG": {
+      "type": "string"
+    },
+    "COG": {
+      "type": "string"
+    },
+    "Heading": {
+      "type": "string"
+    },
+    "Status": {
+      "type": "string"
+    },
+    "TransceiverClass": {
+      "type": "string"
+    },
+    "ObservedTimestamp": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "row_id",
+    "MMSI",
+    "BaseDateTime",
+    "LAT",
+    "LON",
+    "SOG",
+    "COG"
+  ],
+  "additionalProperties": false
+}

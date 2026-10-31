@@ -1,0 +1,123 @@
+row_id,injected_type,previous_hash,comment
+AIS-02-0125,INVALID_MMSI,240da3d645ed68b5def4c1b660d70dd35aea06827abdbcc0ad6198e3478a4876,Synthetic test injection: not a real maritime finding
+AIS-02-0133,INVALID_MMSI,dcbf7a2c40d0c23b55ca3100f51246e96990d2cf37739b6ccb5c20d6a594937f,Synthetic test injection: not a real maritime finding
+AIS-02-0025,INVALID_MMSI,4f34a708923374b8dfeb52d9aa2166ad42da107e836fe0a94c8df2d2e213fd8f,Synthetic test injection: not a real maritime finding
+AIS-14-0057,INVALID_MMSI,0b0bb0edafd1f753c47d0954862ddcf88a626c89e55d2b408f929f2595233511,Synthetic test injection: not a real maritime finding
+AIS-08-0042,INVALID_MMSI,87024c6391273a86d8fbb977524f8585428730e30a7d02d96d3b085406f0dc38,Synthetic test injection: not a real maritime finding
+AIS-13-0085,INVALID_MMSI,86278ef48a3ed92b43eb73fa72231eb9a308addf0341709a93ab85e476c3669d,Synthetic test injection: not a real maritime finding
+AIS-06-0143,INVALID_MMSI,acd4f50e144206f944daf7d777bffe9be2da41c9ad82e56f51f6ef2f6379fef1,Synthetic test injection: not a real maritime finding
+AIS-07-0063,LAT_OUT_OF_RANGE,68a24cca73c336fdbbb0ed2b8f70a7ac143062ca482750ca5b6b8e681ce459d6,Synthetic test injection: not a real maritime finding
+AIS-06-0024,LAT_OUT_OF_RANGE,e9d2985d03279849a14a8abf1ecc341938195c5effc04949b8f50c0b11aa88b3,Synthetic test injection: not a real maritime finding
+AIS-15-0091,LAT_OUT_OF_RANGE,bef6b30c10fdd9c38e59e21d65a4ad98159507d3c1955cbe813bfc31e9a17f37,Synthetic test injection: not a real maritime finding
+AIS-03-0018,LAT_OUT_OF_RANGE,4ae9fa0446afa5868c70c35b18ddf8e915afce0f023c79ce67d9483ce46410b4,Synthetic test injection: not a real maritime finding
+AIS-12-0037,LAT_OUT_OF_RANGE,1d0178b986f71ceab4c79426d369d001d20906ae15a38cbfb8f70be5b47c6a8a,Synthetic test injection: not a real maritime finding
+AIS-06-0043,LAT_OUT_OF_RANGE,2d3273cdc12d075c761f370accdb88f66bfdef4746db898049e55ed37699fe0e,Synthetic test injection: not a real maritime finding
+AIS-08-0090,LAT_OUT_OF_RANGE,50d7b5cfe466b61459f3278246f1d184839439db09789d7ef6429acaa0be2165,Synthetic test injection: not a real maritime finding
+AIS-11-0003,LON_OUT_OF_RANGE,45178492940aa81f2d29ea2462796e4e26e9dfba522caa4291f715dc6721f9b5,Synthetic test injection: not a real maritime finding
+AIS-13-0048,LON_OUT_OF_RANGE,99c861cdb4984c24a09e20ee35a6d0d303066d2a5d51c19d48eabe62b57f2434,Synthetic test injection: not a real maritime finding
+AIS-12-0049,LON_OUT_OF_RANGE,d5e5fce1bc3a6316c29fd8bf85e371105fa16fd91ff212e15ea6b55ead1a06a4,Synthetic test injection: not a real maritime finding
+AIS-14-0080,LON_OUT_OF_RANGE,37590db3d1a4ae061877edbb4d72b65b89b1cba4d2561510238d29bcf387caa6,Synthetic test injection: not a real maritime finding
+AIS-03-0019,LON_OUT_OF_RANGE,586b48110b75728d3c1b965cd4e2049a3ba33ca603c5505dc17546be07853ef2,Synthetic test injection: not a real maritime finding
+AIS-15-0090,LON_OUT_OF_RANGE,d25c1fd99dcb1a60d005e670e9ec9508a7dd90f9b9031ef575b5961bd285eb5b,Synthetic test injection: not a real maritime finding
+AIS-11-0117,LON_OUT_OF_RANGE,70e1cca9019b5c4d42de5ec37c59f86ab7043d995b3479f499e719f1494cd815,Synthetic test injection: not a real maritime finding
+AIS-01-0063,BAD_EVENT_TIME,3ee22e55b31f6d1f3997c9ed388daeb7c1e824ef0183efeab6b6b56cb5a56054,Synthetic test injection: not a real maritime finding
+AIS-06-0018,BAD_EVENT_TIME,ee0d053babb18ed49b5db4097a24bde1c9ed5045bc733e706b83e5d2e387f05c,Synthetic test injection: not a real maritime finding
+AIS-11-0131,BAD_EVENT_TIME,b7c62d937ad6467563a05c6ae09f5e049a32c06f05a786e0105bcaa8cbd99f95,Synthetic test injection: not a real maritime finding
+AIS-07-0056,BAD_EVENT_TIME,c4cb35ad58f0ffaddbcdf4c8c567c5de03eeb8920afa93bfb7cfea37e512f8c0,Synthetic test injection: not a real maritime finding
+AIS-08-0130,BAD_EVENT_TIME,f321f0025bdb2081cfc51152c28aa93138439121f120d2a51c63d9dcb60c6551,Synthetic test injection: not a real maritime finding
+AIS-13-0110,BAD_EVENT_TIME,625127ed091bdedf0f073ff089a419aefc96f009833e6515d4a93ac6beab10ad,Synthetic test injection: not a real maritime finding
+AIS-11-0136,BAD_EVENT_TIME,ae192aca55d0b3f1362550f0a7e20fbc265d849779fcd8dcdd3c737f40d4f0ec,Synthetic test injection: not a real maritime finding
+AIS-01-0101,NEGATIVE_SOG,148cb163f36cd1f2418f5b838f6701bc73f151e901a764a5c872e5176d053c63,Synthetic test injection: not a real maritime finding
+AIS-15-0017,NEGATIVE_SOG,74f62a93a52822b3bb30fffd646d0fd1fd276c7e51579aa61cebb4f8b4b620ea,Synthetic test injection: not a real maritime finding
+AIS-06-0108,NEGATIVE_SOG,fc1766d34ed561e960428388b3f1a04d90dca8155579c416148eee15291a5327,Synthetic test injection: not a real maritime finding
+AIS-14-0138,NEGATIVE_SOG,ff7a46706437fc1eb829a96ac6b1499c5b214a102fdfc18e93e9c52c4f31f656,Synthetic test injection: not a real maritime finding
+AIS-02-0088,NEGATIVE_SOG,331b51cce4a37a95ab868004f4eec581a5c97b81b8e98a03fa0f448dc70efed3,Synthetic test injection: not a real maritime finding
+AIS-15-0086,NEGATIVE_SOG,6d4b041ded24c4e5e8b197615ba90abcbcc6fb01a542b35e7abd313fed0b58a8,Synthetic test injection: not a real maritime finding
+AIS-15-0134,NEGATIVE_SOG,a8577bea5e807ca5c6f2066dcf83b79d235b19ec8f2c8ef1f5ace16d35f66b90,Synthetic test injection: not a real maritime finding
+AIS-06-0133,SOG_HIGH,17d313eef73ff81a8b47bd5505e1d84e09aebacbc3ef71b9a5da050673decb0d,Synthetic test injection: not a real maritime finding
+AIS-09-0134,SOG_HIGH,c790cf7966632548e3d09b05f340382c4eac3e9de79e88a22180f28d0b122ec9,Synthetic test injection: not a real maritime finding
+AIS-10-0050,SOG_HIGH,cbdd7786ac285feb5fe6f1b9a1283ff5d5d60b0333c731d57718b22145831844,Synthetic test injection: not a real maritime finding
+AIS-11-0023,SOG_HIGH,68294ee29af99398d2f70984a77d13de87199545ea772758488ba876b9a6380f,Synthetic test injection: not a real maritime finding
+AIS-11-0053,SOG_HIGH,a8a280e3e7a007d5fde3e252942f2e794a9e7cc03047547e862db51839ba1b9f,Synthetic test injection: not a real maritime finding
+AIS-11-0000,SOG_HIGH,d9af53ca59c10756125e756a44121d26bcf51b7edff803e4d454b7d8aac289d0,Synthetic test injection: not a real maritime finding
+AIS-15-0018,SOG_HIGH,9d6a6c40536c144f2ed7637997afeac838c15934dfb420b656d2c42ff28c5534,Synthetic test injection: not a real maritime finding
+AIS-02-0001,BAD_COG,061122c30c9ecb23dd271e595a5fbc3657e3bc45df49425799844fc87d09fe24,Synthetic test injection: not a real maritime finding
+AIS-06-0131,BAD_COG,973cbf9f245e464a7972fdcb0967f7887f1134bd4caa7c236a082f8f9f1a006f,Synthetic test injection: not a real maritime finding
+AIS-03-0003,BAD_COG,d9b0904cc6426bdef65a5aebadf32abe8b9b4933680defef629ab4796004857d,Synthetic test injection: not a real maritime finding
+AIS-08-0106,BAD_COG,697f69340e3112a6e1bd0830bb613e85358aaa9dddded27a3a5abbc6d8140caa,Synthetic test injection: not a real maritime finding
+AIS-15-0002,BAD_COG,45e8f51872cb35aba1fdb9c9084cd9529d6a91f52103f3f6bf132271d9054fcf,Synthetic test injection: not a real maritime finding
+AIS-06-0136,BAD_COG,ee689c6c0ff6102205c18c6083424f5e8d5e0e81beb76ee9599820bd6476d875,Synthetic test injection: not a real maritime finding
+AIS-02-0113,BAD_COG,ee6d21c5ec464ecd9f615fbfcf4b530210d00d9216956e431266d397bc66e907,Synthetic test injection: not a real maritime finding
+AIS-07-0126,GPS_JUMP,34e0d2f18778b940545fe6c28b80df3bf5f27bcdb90406457591d959906eeb55,Synthetic test injection: not a real maritime finding
+AIS-05-0000,GPS_JUMP,16665e628d0f94471aba12fc1d3bb935adc33cee034a782c6206395e517a7a33,Synthetic test injection: not a real maritime finding
+AIS-00-0036,GPS_JUMP,281ed9e78a55f224b485f4e541307f0c616e42949038606cc537064dad0d04ae,Synthetic test injection: not a real maritime finding
+AIS-15-0140,GPS_JUMP,021fe2f34d5c38dc69289dba04ca4ad882d86d11aeb89914f3bf02504a358aaa,Synthetic test injection: not a real maritime finding
+AIS-06-0081,GPS_JUMP,8cf746623789e9536fefb6af5fe971b0822e8785cc48a77d4f5c0236fb5816f5,Synthetic test injection: not a real maritime finding
+AIS-11-0046,GPS_JUMP,a1c100b4ac01361448a608f9a562bc4ae71272704819b4ed2c457f5bfe9414ab,Synthetic test injection: not a real maritime finding
+AIS-12-0135,GPS_JUMP,41e22f6e58c99a0fd026c881e58bfed54738d90718edcaba7f4761dacde80423,Synthetic test injection: not a real maritime finding
+AIS-12-0073,GPS_JUMP,0900ac24dca6c257f58d5fc90870ae6aaa88756b0343787494ccc4f44897cea0,Synthetic test injection: not a real maritime finding
+AIS-05-0072,RECEIPT_DELAY,ff3fb7e346459ea3f1e831fc25d5aa38c02da6a55924cee303e860a81c147381,Synthetic test injection: not a real maritime finding
+AIS-11-0061,RECEIPT_DELAY,90ed41082d45f8439e938c4416b98f114ac7e7dc74bae44da43a980b8073410c,Synthetic test injection: not a real maritime finding
+AIS-07-0041,RECEIPT_DELAY,5e835e5303aab4d5856984c8e83a4e26b2ca05c61efc2345822edf8ed9853883,Synthetic test injection: not a real maritime finding
+AIS-14-0003,RECEIPT_DELAY,4041da92651370f187d92d65c7a22bacaa8e1586791322b90c46c757e03d5c4f,Synthetic test injection: not a real maritime finding
+AIS-09-0135,RECEIPT_DELAY,c65c2099688147c918b78e2da466bf0ac5125451fd01ae24eb64d4e0fce54088,Synthetic test injection: not a real maritime finding
+AIS-11-0134,RECEIPT_DELAY,6208f2714649ea9c8c3e2a28f7e1474a9de48db5b0931118327fcd68a25ae8ec,Synthetic test injection: not a real maritime finding
+AIS-05-0083,RECEIPT_DELAY,2353b80950ccd7710a52f59f39425efb0e47d02ae4139fde9c8445f4d30a60f9,Synthetic test injection: not a real maritime finding
+AIS-13-0142,RECEIPT_DELAY,3ad1ba22ec0a63a3fddf30368f6f45c5844f1767337fc108c8b61bfba1120f39,Synthetic test injection: not a real maritime finding
+AIS-04-0084,MMSI_CATALOG_MISMATCH,9db9d2ab90aad869223f313f57ba7e402dcafd52a5ed06e268b644b94eac420e,Synthetic test injection: not a real maritime finding
+AIS-05-0122,MMSI_CATALOG_MISMATCH,fbc640960be07f1532f1597a5742085bbccf882d2335cc8a38c0fde84552f9dd,Synthetic test injection: not a real maritime finding
+AIS-07-0123,MMSI_CATALOG_MISMATCH,5d84c858af6048e5144d9715df6af64c2331a4c0d735ee4fe2d2e2150625c56b,Synthetic test injection: not a real maritime finding
+AIS-08-0040,MMSI_CATALOG_MISMATCH,df5c913ea3c80249079e41b9ca8e19950aeb73869e9a25d7ba120f54da86d6f1,Synthetic test injection: not a real maritime finding
+AIS-00-0022,MMSI_CATALOG_MISMATCH,56105c88be227dc6f53795820d8f10e035ac6efde3c4d56ebd07b5c3016ac7fd,Synthetic test injection: not a real maritime finding
+AIS-15-0046,MMSI_CATALOG_MISMATCH,fc9556c4dfa538ceedd361514191dec83c023ae50e8fcd80cc1da282c6ce91c1,Synthetic test injection: not a real maritime finding
+AIS-06-0032,MMSI_CATALOG_MISMATCH,f4d7cea40a791d40827c12d2f1d6b9b26c5d06a1611d805c0a56bda06679bbca,Synthetic test injection: not a real maritime finding
+AIS-10-0135,UNKNOWN_SPEED_SENTINEL,a610a13cbf028dce79a754eb8305138160d2598812219e5fd132148795afe9f5,Synthetic test injection: not a real maritime finding
+AIS-03-0068,UNKNOWN_SPEED_SENTINEL,7f82e155c312728148d0b35ae2dc47753cf7e5cff0e7a13408ace411bd9fbfbd,Synthetic test injection: not a real maritime finding
+AIS-09-0068,UNKNOWN_SPEED_SENTINEL,a8da0a437cd6daa4e3786cd49d6b781c29edf9e5ab09b215fc34280316d8c225,Synthetic test injection: not a real maritime finding
+AIS-05-0040,UNKNOWN_SPEED_SENTINEL,b914ac704705ed5fdf5cd4319177e501c8bb232e64825e7fa002f7dba6d4c9a1,Synthetic test injection: not a real maritime finding
+AIS-05-0060,UNKNOWN_SPEED_SENTINEL,9e4fe27b1b09e42f764280e8efdee511fa4f8bd7f6c473dec8d270478508fd41,Synthetic test injection: not a real maritime finding
+AIS-04-0073,UNKNOWN_SPEED_SENTINEL,5ba1dbdcb46ea78148eff8d5e516a187355392d58f00cb78a72ea06c146cbb76,Synthetic test injection: not a real maritime finding
+AIS-07-0081,UNKNOWN_SPEED_SENTINEL,a8a9e90ed9e56a382cd8a0e805583815fd13d29b5430d232b19d27e3957c9a0d,Synthetic test injection: not a real maritime finding
+AIS-00-0140,UNKNOWN_COURSE_SENTINEL,edf93ff8576d495eb887b62766bb8a86ae89f2c182e3dd9ebfe77a6ae0b7dbb2,Synthetic test injection: not a real maritime finding
+AIS-02-0067,UNKNOWN_COURSE_SENTINEL,754dbd489077ae304b9cc8620872b0ad5f86029ae65823f7948aa6de2f3c3fcb,Synthetic test injection: not a real maritime finding
+AIS-08-0062,UNKNOWN_COURSE_SENTINEL,ea9903ca40196e30509cd89ac04f59a378db6ea0f6649f8bfe6881ad59e49a4f,Synthetic test injection: not a real maritime finding
+AIS-13-0027,UNKNOWN_COURSE_SENTINEL,3cb89c87c42fea14d1f3bb0cf4098d7c440fe439bfc1c72511d99212f0491636,Synthetic test injection: not a real maritime finding
+AIS-00-0115,UNKNOWN_COURSE_SENTINEL,d937db0159af2a6cb59ab538c3569aaa6699f3ca08ffd69c8a1d4a23d0d6a9a1,Synthetic test injection: not a real maritime finding
+AIS-00-0017,UNKNOWN_COURSE_SENTINEL,c71cf81c6de3452409712a04231ee25f06581624220019b1715e56be738fb3bd,Synthetic test injection: not a real maritime finding
+AIS-07-0006,UNKNOWN_COURSE_SENTINEL,d9853b680e9b24ad4cd2de7bb18b7caa45061192b240efd3c86f2a964d998f95,Synthetic test injection: not a real maritime finding
+AIS-15-0116,EMPTY_STATUS,e94976176894e32a861eeebfb80a3e6352272cdf92df19f055f93356cbe66fc0,Synthetic test injection: not a real maritime finding
+AIS-13-0143,EMPTY_STATUS,be1be9f3b055f8c55e97e6fb88cb61e9377f27e43c128b194d7f2af66f7ea170,Synthetic test injection: not a real maritime finding
+AIS-00-0083,EMPTY_STATUS,3bfc73bab7262c0c78a3fc74c62298741eef675da8af2c4c44638fd5078c0f4c,Synthetic test injection: not a real maritime finding
+AIS-09-0001,EMPTY_STATUS,3062326599aece0d3ffb6c5df579a2559115b5410cef81654be99dfa3f70d155,Synthetic test injection: not a real maritime finding
+AIS-13-0079,EMPTY_STATUS,2c10a4598934666ab62ea311c8bad5f12eb8ea014476b894ac66d63f1f01497b,Synthetic test injection: not a real maritime finding
+AIS-03-0129,EMPTY_STATUS,ed44992b3e028bb63e18ef3fddde6ebabd6782e9b50a696f67e38cd5ed708466,Synthetic test injection: not a real maritime finding
+AIS-12-0004,EMPTY_STATUS,6cd9462fb6c2b14c550e1f757e9363444d6a619a152bfc50bd5cf2555cde23b8,Synthetic test injection: not a real maritime finding
+AIS-02-0117,FORMULA_INJECTION_TEXT,7b5a308f261e0fabddd3b86a15ca2ddbf580972f29fb61d1c6edaf720d2c45b5,Synthetic test injection: not a real maritime finding
+AIS-06-0099,FORMULA_INJECTION_TEXT,d616ae41d50d28da5d4ed16e84574c77270f001af12c759abb7d435358f672dc,Synthetic test injection: not a real maritime finding
+AIS-09-0049,FORMULA_INJECTION_TEXT,e897c5af65415255e597db6e3540125e6c56b151d6cb3e0e66e5acb0484cc66b,Synthetic test injection: not a real maritime finding
+AIS-04-0014,FORMULA_INJECTION_TEXT,bed2de6b29a88f4241c4a7532f5ec8abbee956169558c55bb0ab001912dce29f,Synthetic test injection: not a real maritime finding
+AIS-15-0060,FORMULA_INJECTION_TEXT,74fb1c53784c4dfc73e5db9d986466fa48dc774206784941ed894403f9747ee1,Synthetic test injection: not a real maritime finding
+AIS-06-0015,OBSERVED_BEFORE_EVENT,28db52ba9a68cb455ef19b815e2386321b1a8635c210549cbb0232505a541553,Synthetic test injection: not a real maritime finding
+AIS-09-0022,OBSERVED_BEFORE_EVENT,9d0ad4b92fbc3380c4462c39d8caed74fec83433e8b36e59981afe43b833dfd2,Synthetic test injection: not a real maritime finding
+AIS-05-0010,OBSERVED_BEFORE_EVENT,5b9d02a4ca623a95538d9cbbd8535677861150a2c4d6aeff50b7ca5423f34d12,Synthetic test injection: not a real maritime finding
+AIS-07-0071,OBSERVED_BEFORE_EVENT,5bccd36b9f9c919dd089a5d608e377f54fd43f8b1a4b28da7eaa483a28c66129,Synthetic test injection: not a real maritime finding
+AIS-10-0036,OBSERVED_BEFORE_EVENT,b66dbdeab9f5c5f2a74de7eb423ff24cba5f13c13444b7c6eba13a6e44883abe,Synthetic test injection: not a real maritime finding
+AIS-04-0057,OBSERVED_BEFORE_EVENT,f89466656618c3aa3419498ccde2a794e23b873bba8729b10e23f871cf3a8e0e,Synthetic test injection: not a real maritime finding
+REPEAT-0000,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0001,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0002,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0003,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0004,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0005,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0006,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0007,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0008,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0009,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0010,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0011,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0012,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0013,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0014,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0015,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0016,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
+REPEAT-0017,RECEIVER_DUPLICATE,,Synthetic repeated broadcast: not automatically bad data
